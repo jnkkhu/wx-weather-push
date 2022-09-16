@@ -1,32 +1,30 @@
 # https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 wx:
   config:
-    appId: "wx7dbab3b0dafb7726"
-    appSecret: "d8faf8f789bd723de0657cd5f5073df2"
+    appId: "wx2e650cc251405cad"
+    appSecret: "0c854ee5724d4be1816de6e6fe9714d6"
     #???Id
-    templateId1: "cZRFR4whDV-PxpWCSgNpz6INToTROaHHG9Vsl-OiV7o"
-    templateId2: "q70zHoVzfqFdM6LlGY8f8e_DnQeOhFpFC2uB_Tqu43g"
-    templateId3: "yJ5pcnOCnxv4NvYfvKDqsI2MJpNuUaDFOZZ1aaBTk-o"
+    templateId1: "ssO-btRIoKAzlOFwJDTF1xLWF2h1PyW4Ko_TKhlJYBA"
     openidList:
-      - "oiklg53GMSTLpy3ufrnLXq_amIRg"
-      - "oiklg5-zp575_u3K0vMR9B7ms32Q"
+      - "oWoxv5zCn54YSdUMr1fctPVpsAm4"
+      - "oWoxv5_tlbYCXCNqw_sITP2Y6C64"
 
 message:
   config:
-    birthday1: "03-11"
-    birthday2: "12-30"
-    togetherDate: "2021-12-25"
+    birthday1: "06-19"
+    birthday2: "10-15"
+    togetherDate: "2020-12-10"
     message: "Have a happy day and love you"
 
 # https://tianqiapi.com/user/login
 weather:
   config:
-    appid: "27557843"
-    appSecret: "Bc4CR4MY"
-    city: "???"
+    appid: "12785967"
+    appSecret: "QkQ4dx38   "
+    city: "榆林"
 # https://www.apispace.com/eolink/api/myjj/introduction
 ApiSpace:
-  token: "27e6b60faeb147f98eb6870520c760c8"
+  token: "7q0an6ajb4fcqkf002zwra0ozlzvnkff"
 
 server:
   port: 8088
